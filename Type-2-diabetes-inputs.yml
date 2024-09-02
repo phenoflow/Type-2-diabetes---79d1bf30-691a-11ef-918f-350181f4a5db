@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/type-2-diabetes-uncontrolled---icduncat.py
+inputModule3:
+  class: File
+  path: python/diabetes---icduncat.py
+inputModule4:
+  class: File
+  path: python/type-2-diabetes-complication---icduncat.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
